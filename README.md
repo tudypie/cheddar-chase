@@ -1,5 +1,8 @@
 # Logic Learning Game 🎮 made at Unihack 6 📚
 
+## Winner of best game app and education track
+![IMG-20250815-WA0003](https://github.com/user-attachments/assets/aacdd48e-7664-4c84-b1b3-1e40efd1dd80)
+
 ## How to play 
 
 ### Play online right now on [Itch](https://gabriel1961.itch.io/cheddar-chase) 
